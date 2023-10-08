@@ -1,0 +1,3 @@
+En este repositorio se prentende crear un espacio dedicado a la programacion de microcontroladores STM32 usando la plataforma de desarrollo STM32cubeIDE, en especifico yo poseo la placa STM32F401RE sin embardo con el cubeIDE se puede programar otro microcontrolador STM sin dificultad adicional.
+Aun asi es importante recurrir a la docunmentacion correspondiente para apoyarnos en cualquier duda que surja, en espacial a la hora de realizar el hardware.
+A continuacion dejo la datasheet de la placa y del microcontrolador ademas de los pinout.
